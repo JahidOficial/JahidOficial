@@ -1,16 +1,13 @@
+![Cover_Image](https://media.licdn.com/dms/image/v2/D5616AQFlHA6mtvRpOA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726688090400?e=1773878400&v=beta&t=JBzg3GCO_4WuXslcDw1xQi6dfpsLfU9kd-t8JG71ehU)
 ## Hi there 👋
+## I am Jahid Hossain
 
-<!--
-**JahidOficial/JahidOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Frontend Web Development.
+- 🌱 I’m currently learning React.js and improving my problem-solving skills.
+- 👯 I’m looking to collaborate on Open Source Web Development projects.
+- 🤔 I’m looking for help with Advanced JavaScript and Backend Development.
+- 💬 Ask me about HTML5, CSS3, Tailwind CSS, and basic programming concepts.
+- 📫 How to reach me: jahid.cse.in@email.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning coffee into clean and responsive websites!
