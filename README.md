@@ -1,9 +1,12 @@
 ![I'm a professional front-end web Developer](https://media.licdn.com/dms/image/v2/D5616AQFlHA6mtvRpOA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726688090400?e=1773878400&v=beta&t=JBzg3GCO_4WuXslcDw1xQi6dfpsLfU9kd-t8JG71ehU)
 
-### Hi! 👋 I'm Jahid Hossain.
-#### I'm a professional front-end web Developer
+# Hi! 👋 I'm Jahid Hossain.
+### I'm a professional front-end web Developer.
 
-# 💫 About Me:
+![Profile Views](https://komarev.com/ghpvc/?username=jahidoficial&color=blue)
+
+
+## 💫 About Me:
 Hi, I’m Jahid Hossain, a Professional Front-End Web Developer with a strong passion for building clean, responsive, and user-friendly web interfaces. I specialise in creating modern, performance-optimised websites using the latest web technologies.
 
 I focus on writing scalable, maintainable code and delivering pixel-perfect designs that provide seamless user experiences across all devices. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
@@ -11,20 +14,26 @@ I focus on writing scalable, maintainable code and delivering pixel-perfect desi
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning NEXT.JS & AUTHENTICATION 
 - 👯 I’m looking to collaborate on Open Source Web Development projects. 
-- 💬 Ask me about Web Development  
+- 💬 Ask me about Web Development
+
+
+## 🗂️ Resources:
+[![Projects](https://img.shields.io/badge/My%20Projects-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/jahidoficial)
+[![Website](https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebyjahid.com/)
+[![View CV](https://img.shields.io/badge/View-My_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/16QWSDx_UdHsOrFUi7jaBt_8R5h1oY32L/view?usp=sharing)
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jahidoficial) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jahidoficial) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahidoficial) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahidoficial) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidOficial) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/jahidhossain) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jahidoficial) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahid.cu.cse@gmail.com) 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,10 +49,10 @@ I focus on writing scalable, maintainable code and delivering pixel-perfect desi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JahidOficial) 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jahidoficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=jahidoficial&icon=0&color=0)](https://visitcount.itsvg.in)
