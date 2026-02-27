@@ -36,7 +36,8 @@ I focus on writing scalable, maintainable code and delivering pixel-perfect desi
 
 ## 🗂️ Resources:
 [![Projects](https://img.shields.io/badge/My%20Projects-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/jahidoficial)
-[![Website](https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebyjahid.com/)
+[![Projects](https://img.shields.io/badge/My%20Projects-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/codebyjahid)
+[![Website](https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahidoficial.github.io/CodeByJahid/)
 [![View CV](https://img.shields.io/badge/View-My_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/16QWSDx_UdHsOrFUi7jaBt_8R5h1oY32L/view?usp=sharing)
 
 
@@ -94,7 +95,3 @@ I focus on writing scalable, maintainable code and delivering pixel-perfect desi
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
