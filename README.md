@@ -17,22 +17,6 @@ I focus on writing scalable, maintainable code and delivering pixel-perfect desi
 - 💬 Ask me about Web Development
 
 
-## 🗂️ Resources:
-[![Projects](https://img.shields.io/badge/My%20Projects-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/jahidoficial)
-[![Website](https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebyjahid.com/)
-[![View CV](https://img.shields.io/badge/View-My_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/16QWSDx_UdHsOrFUi7jaBt_8R5h1oY32L/view?usp=sharing)
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jahidoficial) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahidoficial) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahidoficial) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidOficial) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/jahidhossain) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jahidoficial) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahid.cu.cse@gmail.com) 
-
-
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -49,12 +33,68 @@ I focus on writing scalable, maintainable code and delivering pixel-perfect desi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
+
+## 🗂️ Resources:
+[![Projects](https://img.shields.io/badge/My%20Projects-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/jahidoficial)
+[![Website](https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebyjahid.com/)
+[![View CV](https://img.shields.io/badge/View-My_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/16QWSDx_UdHsOrFUi7jaBt_8R5h1oY32L/view?usp=sharing)
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jahidoficial) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahidoficial) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahidoficial) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidOficial) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/jahidhossain) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jahidoficial) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahid.cu.cse@gmail.com) 
+
+
+
 ## 📊 GitHub Stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JahidOficial) 
+
+
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jahidoficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=jahidoficial&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## 🚀 Featured Projects
+### 🔹 **TechWave Website** – HTML5 + CSS + Tailwind
+
+  [![Projects](https://img.shields.io/badge/Live%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://jahidoficial.github.io/Programming-hero-B13-A02/)
+  [![Projects](https://img.shields.io/badge/Code%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/JahidOficial/Programming-hero-B13-A02)
+
+### 🔹 **Portfolio Website** – HTML, CSS, JS
+
+  [![Projects](https://img.shields.io/badge/Live%20Portfolio-GitHub-blue?style=for-the-badge&logo=github)](https://jahidoficial.github.io/CodeByJahid/)
+  [![Projects](https://img.shields.io/badge/Code%20Portfolio-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/JahidOficial/CodeByJahid)  <br><br>
+
+
+
+## 💼 Services I Offer
+✔ Responsive Website Development  
+✔ Landing Page Design    
+✔ Figma to HTML, CSS  
+✔ Website Redesign  
+✔ Performance Optimization  <br><br>
+
+
+
+## 🏆 Achievements
+- ✅ 50+ Completed Projects on Fiverr  
+- ⭐ 5★ Rated Frontend Developer  
+- 📜 Certified Web Developer  <br><br>
+
+
+## 📈 Activity Graph
+![Jahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jahidoficial&theme=react-dark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
