@@ -1,4 +1,4 @@
-![I'm a professional front-end web Developer](https://drive.google.com/uc?export=view&id=14NcPvPF-OWORESE2lrbljB_q59s-L3Ma)
+![I'm a professional front-end web Developer](./Images/Profile-banner-image.png)
 
 # Hi! 👋 I'm Jahid Hossain.
 ### I'm a professional front-end web Developer.
